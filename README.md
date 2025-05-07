@@ -52,13 +52,17 @@ A full-stack wellness web application that helps users explore health insights t
 - npm
 
 ---
-## Create a .env file with:
+## Create a .env file In The Backen Folder:
 
 - PORT=4000
-- MONGO_URI=your_mongodb_connection_string
-- JWT_SECRET=your_jwt_secret
-- GOOGLE_CLIENT_ID=your_google_client_id
-- GOOGLE_CLIENT_SECRET=your_google_client_secret
+- MONGO_URI=mongodb://localhost:27017/Wellness_Hub
+- JWT_SECRET=your_jwt_secret_here
+- GOOGLE_CLIENT_ID=your_google_client_id_here
+- GOOGLE_CLIENT_SECRET=your_google_client_secret_here
+- GEMINI_API_KEY=your_gemini_api_key_here
+- GOOGLE_SEARCH_API_KEY=your_google_search_api_key_here
+- GOOGLE_SEARCH_ENGINE_ID=your_custom_search_engine_id_here
+
 
 ---
 
