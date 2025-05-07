@@ -52,7 +52,7 @@ A full-stack wellness web application that helps users explore health insights t
 - npm
 
 ---
-## Create a .env file In The Backen Folder:
+## Create a .env file In The Backend Folder:
 
 - PORT=4000
 - MONGO_URI=mongodb://localhost:27017/Wellness_Hub
